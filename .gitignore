@@ -1,0 +1,4 @@
+comment/*
+img/*
+node_modules
+!.gitkeep
